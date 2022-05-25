@@ -1,1 +1,3 @@
-deploying java applications
+deploying java application
+deploy python apps
+deploy in the dev environments
